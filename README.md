@@ -18,3 +18,4 @@ I calculated the correlation parameters. I took an input according to the size a
 ![all_graph](https://user-images.githubusercontent.com/48547417/105095248-7f3a3180-5ab6-11eb-9e11-01dc3b9f850c.PNG)
 
 The red line represents the regression curve of the whole dataset, the blue line the men's regression curve, the green line the women's regression curve.
+horizontal axis heights, vertical axis weight values.
