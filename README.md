@@ -2,7 +2,7 @@
 
 Bu projede test.txt içerisindeki  verileri okuyup lineer regresyon yöntemini uyguladım.
 Veri setinde  öncelikle istediğim sütunlardaki  verileri uygun formata getirip ardından temizlenmiş  veriler üzerinde numerik analizler için kullanılan "NUMPY" kütüphanesi ile 
-korelasyon parametrelerini hesapladım.Boya göre girdi alıp,cinsiyete göre kilo tahmini yaptım.
+korelasyon parametrelerini hesapladım.Boya göre girdi alıp,cinsiyete göre kilo tahmini yaptım.Bu yöntemi bana öğreten C ve Sistem Programcıları Derneği'nden Kaan Hocam'a teşekkür ederim
 
 #English-Readme 
 
