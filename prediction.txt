@@ -1,0 +1,4 @@
+Feza Güney,<190>,1.77,NA,Kadın
+Rasim Güneş,<678>,1.69,NA,Erkek
+Rıza Türmen,<956>,1.92,NA,Erkek
+

@@ -1,0 +1,14 @@
+Adı Soyadı,No,Boy,Kilo,Cinsiyet
+Sacit Bulut,<123>,1.72,83,Erkek
+Ayşe Er,<723>,1.65,74,Kadın
+Beyza Tan,<239>,NA,NA,kadın
+Necati Durmaz,<798>,1.85,83,Erkek
+Ümit Bakır,<298>,NA,84,erkek
+Jale Kanlıdere,<965>,1.67,65,kadın
+Hasan Kaçmaz,<523>,1.75,92,erkek
+Rasim Özel,<890>,1.90,82,Erkek
+Tansel Turgut,<490>,1.70,72,Erkek
+Demir Özlü,<965>,1.90,85,erkek
+Şermin Uslu,<523>,1.60,74,erkek
+Buket Şen,<890>,1.72,70,Erkek
+Oğuz Karan,<490>,1.75,82,Erkek	
