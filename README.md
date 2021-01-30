@@ -1,6 +1,8 @@
 # lineer_regression_numpy 
 
-![code quality score ](https://www.code-inspector.com/project/18442/score/svg)
+![code quality score ](https://www.code-inspector.com/project/18442/score/svg) 
+![code quality grade ](https://www.code-inspector.com/project/18442/status/svg)
+
 
 Bu projede test.txt içerisindeki  verileri okuyup lineer regresyon yöntemini uyguladım.
 Veri setinde  öncelikle istediğim sütunlardaki  verileri uygun formata getirip ardından temizlenmiş  veriler üzerinde numerik analizler için kullanılan "NUMPY" kütüphanesi ile 
