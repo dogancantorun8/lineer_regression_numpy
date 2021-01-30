@@ -1,5 +1,7 @@
 # lineer_regression_numpy 
 
+![code quality score ]https://www.code-inspector.com/project/18442/score/svg
+
 Bu projede test.txt içerisindeki  verileri okuyup lineer regresyon yöntemini uyguladım.
 Veri setinde  öncelikle istediğim sütunlardaki  verileri uygun formata getirip ardından temizlenmiş  veriler üzerinde numerik analizler için kullanılan "NUMPY" kütüphanesi ile 
 korelasyon parametrelerini hesapladım.Boya göre girdi alıp,cinsiyete göre kilo tahmini yaptım. 
