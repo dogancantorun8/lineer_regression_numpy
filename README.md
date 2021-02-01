@@ -1,4 +1,4 @@
-# lineer_regression_numpy 
+# Lineer_regression_numpy 
 
 ![code quality score ](https://www.code-inspector.com/project/18442/score/svg) 
 ![code quality grade ](https://www.code-inspector.com/project/18442/status/svg)
