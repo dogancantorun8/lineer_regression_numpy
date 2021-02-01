@@ -12,9 +12,7 @@ Kırmızı eğri tüm datasetin regresyon eğrisini,mavi eğri erkeklerin regres
 
 Bu yöntemi bana öğreten C ve Sistem Programcıları Derneği'nden Kaan Hocam'a teşekkür ederim 
 
-## Technologies
-Project is created with:
-* Python version: 3.7.3
+
 
 
 #English-Readme 
@@ -28,3 +26,7 @@ I calculated the correlation parameters. I took an input according to the size a
 
 The red line represents the regression curve of the whole dataset, the blue line the men's regression curve, the green line the women's regression curve.
 horizontal axis heights, vertical axis weight values.
+
+## Technologies
+Project is created with:
+* Python version: 3.7.3
