@@ -10,7 +10,12 @@ korelasyon parametrelerini hesapladım.Boya göre girdi alıp,cinsiyete göre ki
 
 Kırmızı eğri tüm datasetin regresyon eğrisini,mavi eğri erkeklerin regresyon eğrisini ,yeşil eğri kadınların regresyon eğrisini temsil etmektedir.
 
-Bu yöntemi bana öğreten C ve Sistem Programcıları Derneği'nden Kaan Hocam'a teşekkür ederim
+Bu yöntemi bana öğreten C ve Sistem Programcıları Derneği'nden Kaan Hocam'a teşekkür ederim 
+
+## Technologies
+Project is created with:
+* Python version: 3.7.3
+
 
 #English-Readme 
 
