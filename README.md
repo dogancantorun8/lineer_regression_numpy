@@ -2,6 +2,7 @@
 
 ![code quality score ](https://www.code-inspector.com/project/18442/score/svg) 
 ![code quality grade ](https://www.code-inspector.com/project/18442/status/svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
 Bu projede test.txt içerisindeki  verileri okuyup lineer regresyon yöntemini uyguladım.
