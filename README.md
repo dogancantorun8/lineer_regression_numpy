@@ -1,7 +1,7 @@
 # Lineer_regression_numpy 
 
-![code quality score ](https://www.code-inspector.com/project/18442/score/svg) 
-![code quality grade ](https://www.code-inspector.com/project/18442/status/svg)
+![code quality score ](https://www.code-inspector.com/project/19391/score/svg) 
+![code quality grade ](https://www.code-inspector.com/project/19391/status/svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
