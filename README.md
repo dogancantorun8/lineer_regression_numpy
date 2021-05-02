@@ -3,7 +3,7 @@
 ![code quality score ](https://www.code-inspector.com/project/19391/score/svg) 
 ![code quality grade ](https://www.code-inspector.com/project/19391/status/svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
 Bu projede test.txt içerisindeki  verileri okuyup lineer regresyon yöntemini uyguladım.
